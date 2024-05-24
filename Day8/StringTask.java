@@ -1,7 +1,8 @@
 package Day8;
 
-public class Test101 {
+public class StringTask {
     public static void main(String[] args) {
-        System.out.printf("Hello");
+        String str="$2000";
+        
     }
 }
